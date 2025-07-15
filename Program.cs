@@ -35,6 +35,7 @@ namespace NewConsoleApp
                 Console.WriteLine("Connection failed: " + conn.LastCrmError);
             }
             Console.Read();
+            Console.Read();
         }
     }
 }
