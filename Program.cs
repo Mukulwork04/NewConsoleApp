@@ -17,7 +17,9 @@ namespace NewConsoleApp
                 Url=https://orga5a74ca2.crm8.dynamics.com/; 
                
                 Username=admin@nitinchoudhary1512gmailcom.onmicrosoft.com; 
-                Password=Nittin@1234; 
+                Password=Nittin@1234;
+                Password=Nittin@1234;
+
             ";
 
             CrmServiceClient conn = new CrmServiceClient(connectionString);
